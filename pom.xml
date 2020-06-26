@@ -8,14 +8,15 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.careApi</groupId>
-	<artifactId>anagram_demo-1</artifactId>
+	<groupId>com.main</groupId>
+	<artifactId>anagram_demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>anagram_demo-1</name>
-	<description>Demo project for Spring Boot</description>
+	<name>anagram_demo</name>
+	<description>Anagram project in Spring Boot </description>
 
 	<properties>
 		<java.version>1.8</java.version>
+		<start-class>com.anagram.demo.AnagramDemo1Application</start-class>
 	</properties>
 
 	<dependencies>
