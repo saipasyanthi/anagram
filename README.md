@@ -119,7 +119,7 @@ Returns a 400 - Bad Request if string are not valid
 ### Sample Testcases for Strings Compare.
 
 ```
-@Test
+        @Test
 	public void testDoubleStrPositive()throws Exception {
 		boolean check= anagramService.getAnagramforStrings("keep","peek");
 		assertEquals(true,check);
