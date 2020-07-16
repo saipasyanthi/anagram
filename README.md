@@ -1,4 +1,7 @@
-# Spring Boot "Anagram" Example Project
+# Spring Boot "Anagram" Example Project [![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) 
+
+### ```Java``` ```Spring Boot``` ``` Maven``` ``` RestAPI``` ```H2DB```
+
 This is a sample Java / Spring Boot (version 2.3.1) application
 
 Anagram: a word, phrase, or name formed by rearranging the letters of another, such as cinema, formed from iceman (an anagram does not need to be meaningful necessarily).
